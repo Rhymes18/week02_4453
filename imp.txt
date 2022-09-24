@@ -1,4 +1,4 @@
-ok
+
 Miss Rhymma
  echo "# week02_4453" >> README.md
 git init
