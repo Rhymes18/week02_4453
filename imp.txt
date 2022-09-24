@@ -1,0 +1,7 @@
+ echo "# week02_4453" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rhymes18/week02_4453.git
+git push -u origin main
