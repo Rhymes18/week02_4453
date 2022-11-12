@@ -1,5 +1,5 @@
 
-name: Docker Build and Publish to Docker Hub
+name: Docker Build and Publish to Docker Hub master
 
 on:
   # run it on push to the default repository branch
