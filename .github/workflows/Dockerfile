@@ -2,7 +2,7 @@
 name: Docker Build and Publish to Docker Hub
 
 on:
-  # run it on push to the default repository branch master
+  # run it on push to the default repository branch
   push:
     branches: [master]
 
